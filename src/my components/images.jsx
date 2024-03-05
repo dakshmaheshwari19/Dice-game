@@ -9,4 +9,3 @@ import React from 'react'
 
 export  {one,two,three,four,five,six} 
 // export default one
-
