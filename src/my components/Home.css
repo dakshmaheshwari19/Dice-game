@@ -1,6 +1,8 @@
 .container{
-    display: inline-flex;
-    padding: 180px 129px 154px 129px;
+    width: 100vw;
+    height:100vh;
+    display: flex;
+    /* padding: 180px 129px 154px 129px; */
 justify-content: center;
 align-items: center;
 }
@@ -9,6 +11,12 @@ align-items: center;
 justify-content: center;
 align-items: center;
 gap: 5px;
+}
+.rightHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .heading{
     color: #000;

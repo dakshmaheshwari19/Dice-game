@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+a :hover{
+    background-color: rgb(43, 43, 43);
+    cursor: pointer;
+}
+button{
+    font-family: "Poppins";
+}
+button:hover{
+    background-color: rgb(53, 53, 53);
+}
+body {
+    font-family: "Poppins";
+  }
